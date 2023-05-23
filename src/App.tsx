@@ -5,7 +5,7 @@ import styled from 'styled-components';
 function App() {
     return (
         <div className="App">
-            <Title>Revo-coffee</Title>
+            <Title>palette_eco</Title>
         </div>
     );
 }
